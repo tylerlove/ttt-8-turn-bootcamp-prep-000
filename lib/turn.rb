@@ -29,5 +29,3 @@ end
 def turn(board)
   puts "Please enter a number 1-9:"
 end
-
-
